@@ -1,0 +1,6 @@
+playwright 
+flask-session
+python-dotenv
+flask
+chromadb
+sentence-transformers
