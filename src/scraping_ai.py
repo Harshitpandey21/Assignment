@@ -17,7 +17,7 @@ def fetch_chapter_and_screenshot():
 fetch_chapter_and_screenshot()
 
 def generate_or_review_content(prompt):
-    client = OpenAI(api_key="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",
+    client = OpenAI(api_key="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",
                     base_url="https://openrouter.ai/api/v1")
 
     response = client.chat.completions.create(
